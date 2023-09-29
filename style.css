@@ -1,0 +1,84 @@
+*{
+  background-color: #b1adad;
+}
+
+
+.Heading {
+  text-align: center;
+  color: #102c4e;
+  margin-top: 150px;
+  margin-bottom: 70px;
+  font-size: 35px;
+}
+
+.row1 {
+    float: left;
+    width: 20%;
+    padding: 10px;
+    margin:20px;
+    height: 250px;
+  }
+
+.ele-1 {
+    background: url('images/jobs.jpg');
+    background-size: cover;
+  }
+  
+  .ele-2 {
+    background-color:rgb(146, 100, 100);
+  }
+  
+  .ele-3 {
+    background-color:#33230f;
+  }
+  
+  .ele-4 {
+    background-color:#112d4e;
+  }
+  
+  .ele-5 {
+    background-color:#25b925;
+  }
+  
+  .ele-6 {
+    background-color:#112230;
+  }
+  
+  .ele-7 {
+      background-color:#1e3dc8;
+  }
+  
+  .ele-8 {
+    background: url('images/jobs.jpg');
+    background-size: cover;
+  }
+
+
+  .data {
+    text-align:center;
+    font-size:50px;
+  }
+
+  .ele-2:hover {
+    background-color:#FEDE00;
+  }
+  
+  .ele-3:hover {
+     background-color: #FEDE00;
+  }
+  
+  .ele-4:hover {
+     background-color: #FEDE00;
+  }
+  
+  .ele-5:hover {
+     background-color: #FEDE00;
+  }
+  
+  .ele-6:hover {
+     background-color: #FEDE00;
+  }
+  
+  .ele-7:hover {
+     background-color: #FEDE00;
+  }
